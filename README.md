@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RusakFroog
 - 👀 I’m interesting from nothing
-- 🌱 I’m currently learning Python
-- 📫 How to reach me call me +380661273530
+- 🌱 I’m currently learning C#
+- 📫 How to reach me sens message e-m@il sg970465@gmail.com
 
 <!---
 RusakFroog/RusakFroog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
