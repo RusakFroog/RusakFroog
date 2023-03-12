@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RusakFroog
 - 👀 I’m interesting from nothing
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, JS + RAGE API ❤️
 - 📫 How to reach me sens message e-m@il sg970465@gmail.com
 
 <!---
