@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RusakFroog
 - 👀 I’m interesting from nothing
-- 🌱 I’m currently learning .NET Core (C#) + React (JS)
+- 🌱 I’m currently learning ASP.NET Core (C#) + React (JS)
 - 📫 How to reach me? Send message to discord: rusak2
 - ♟ Developer of the project
 - 🎫 Stack:
