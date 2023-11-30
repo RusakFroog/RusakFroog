@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RusakFroog
+- 👋 Hi, I’m @RiLiLFroog
 - 👀 I’m interesting from nothing
 - 🌱 I’m currently learning ASP.NET Core (C#) + React (JS)
 - 📫 How to reach me? Send message to discord: rusak2
